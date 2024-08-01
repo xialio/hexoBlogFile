@@ -10,6 +10,10 @@
 - [具体的 AI 图像处理库]
 - [前端相关技术，如 CSS 框架等]
 
+## 示例图片
+![示例图片 1](https://example.com/image1.jpg)
+![示例图片 2](https://example.com/image2.jpg)
+
 ## 项目结构
 ```
 tree
@@ -27,7 +31,7 @@ tree
 
 ## 安装与部署
 1. 克隆本项目到本地：
-   `git clone [项目地址]`
+   `git clone [项目地址](https://github.com/xialio/hexoBlogFile)`
 2. 安装依赖：
    `npm install`
 3. 启动本地开发服务器：
@@ -44,15 +48,9 @@ tree
 2. 创建新的分支进行开发。
 3. 提交您的更改并发起 Pull Request。
 
-## 示例图片
-![示例图片 1](https://example.com/image1.jpg)
-![示例图片 2](https://example.com/image2.jpg)
-
 ## 联系我们
 如果您在使用过程中遇到任何问题或者有任何建议，欢迎通过以下方式联系我们：
-- Email: [具体邮箱地址]
+- Email: [outlook](mailto:a1356281880@hotmail.com)
 - GitHub Issues: [项目 Issues 页面链接]
 
 ---
-
-希望这个 README 对您有所帮助，祝您使用愉快！
